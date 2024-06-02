@@ -1,7 +1,7 @@
-import vertextai
+import vertexai
 import streamlit as st
 from vertexai.preview import generative_models
-from vertexai.preview.generative_models import generativeModel, Part, Context, ChatSession
+from vertexai.preview.generative_models import GenerativeModel, Part, Content, ChatSession
 
 project = "sample-gemini"
 vertexai.init(project = project)
