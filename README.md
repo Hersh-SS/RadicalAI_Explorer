@@ -30,8 +30,8 @@ Before you begin, ensure you have the following installed on your system:
 Start by cloning the repository to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Hersh-SS/RadicalAI_Explorer.git
+cd RadicalAI_Explorer
 ```
 
 #### **2. Set Up a Virtual Environment**
